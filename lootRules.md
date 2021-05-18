@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Loot Rules
-permalink:{{baseURL}}/lootrules/
+permalink:/lootrules/
 name: Loot Rules
 ---
 <div class="container-two" markdown="1">
