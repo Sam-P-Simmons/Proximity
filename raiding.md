@@ -17,7 +17,7 @@ name: Raiding
 <div class="column" markdown="1">
 ## Karazhan
 
-<img src="./../assets/Karazhan.jpg">
+<img src="assets/Karazhan.jpg">
 
 <div class="div-space" markdown="1">
 <span class="links-btn">[W Tavern](https://www.warcrafttavern.com/tbc/guides/karazhan/)</span>
