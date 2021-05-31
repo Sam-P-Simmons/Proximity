@@ -43,7 +43,7 @@ body {
 }
 .container-two-header h1 {
     font-weight: 500;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-shadow: 0px 1px 2px #000;
     margin: 0;
 }
@@ -94,6 +94,22 @@ body {
 .navbar a:hover {
     background-color: #15b1e7 !important;
     color: white;
+}
+.nav-unset {
+    background-color: unset;
+    box-shadow: unset;
+    border-top: unset;
+    margin: 1.25rem 0;
+    position: unset;
+}
+.btn-nav {
+    padding: 7px 14px !important;
+    margin: 0.25rem !important;
+    border: 3px !important;
+    width: unset !important;
+}
+.nav-unset a:hover{
+    background-color: #333 !important;
 }
 /*<----- Nav Bar End ----->*/
 
@@ -230,6 +246,11 @@ ul {
 .flex {
     display: flow-root;
 }
+.btn-column {
+    width: 20%; 
+    float: left; 
+    text-align: left;
+}
 
 /*<!----- Responsive Layout Start-----> */
 
@@ -245,6 +266,11 @@ ul {
 @media screen and (max-width: 1150px) {
     .column {
         width: 50%;
+    }
+    .btn-column {
+        width: 40%; 
+        float: left; 
+        text-align: left;
     }
 }
 
@@ -292,6 +318,9 @@ ul {
 }
   
 @media screen and (max-width: 500px) {
+    body{
+        background-color: white;
+    }
     .banner{
         padding: 0.5rem 1rem;
     }
@@ -302,6 +331,9 @@ ul {
       float: none;
       width: 100%;
       border-bottom: 2px solid #15b1e7;
+    }
+    .nav-unset {
+        box-shadow: unset;
     }
     .container-nav{
         width: 100%;
