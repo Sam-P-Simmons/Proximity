@@ -59,17 +59,18 @@ name: Raiding
 </div>
 
 <div class="container-two-body" markdown="1">
+<div class="flex-container" markdown="1">
 
 ### Bosses 
 
 Concise guides for each boss. They've kept it very simple and each boss has it's own "cheatsheet"; every basic you need to know. This website also has BiS lists and class guides. Probably worth **[checking out](https://wowtbc.gg)**.
 
-<div class="div-space" style="padding: 0.25rem 0" markdown="1">
-<span class="links-btn" style="margin: 0">[Karazhan](https://wowtbc.gg/boss-guides/karazhan/)</span>
-<span class="links-btn">[Gruul's Lair](https://wowtbc.gg/boss-guides/gruul's-lair/)</span>
-<span class="links-btn">[Magtheirdon's Lair](https://wowtbc.gg/boss-guides/magtheridon's-lair/)</span>
-<span class="links-btn">[Serpant Shrine](https://wowtbc.gg/boss-guides/ssc/)</span>
-<span class="links-btn">[Tempest Keep](https://wowtbc.gg/boss-guides/tempest-keep/)</span>
+<div class="navbar nav-unset">
+    <a class="links-btn btn-nav" href='https://wowtbc.gg/boss-guides/karazhan/'>Karazhan</a>
+    <a class="links-btn btn-nav" href="https://wowtbc.gg/boss-guides/gruul's-lair/">Gruul's Lair</a>
+    <a class="links-btn btn-nav" href="https://wowtbc.gg/boss-guides/magtheridon's-lair/">Magtheirdon's Lair</a>
+    <a class="links-btn btn-nav" href='https://wowtbc.gg/boss-guides/ssc/'>Serpant Shrine</a>
+    <a class="links-btn btn-nav" href='https://wowtbc.gg/boss-guides/tempest-keep/'>Tempest Keep</a>
 </div>
 
 <hr>
@@ -84,6 +85,7 @@ Here are the minimum addons you will need installed for our raids:
  5. [GTFO](https://www.curseforge.com/wow/addons/gtfo)
 </div>
 </div>
+</div>
 <!-- Boss Guides end -->
 
 <!-- Raid Comp start -->
@@ -93,7 +95,7 @@ Here are the minimum addons you will need installed for our raids:
 </div>
 
 <div style="text-align: center" markdown="1">
-<img src="./../assets/RaidComp.png">
+<img src="{{site.baseurl}}/assets/RaidComp.png">
 </div>
 </div>
 <!-- Raid Comp end -->
