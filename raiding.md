@@ -37,8 +37,14 @@ name: Raiding
 <img src="./../assets/Gruul.jpg">
 
 <div class="div-space" markdown="1">
-<span class="links-btn">[W Tavern](https://www.warcrafttavern.com/tbc/guides/gruuls-lair/)</span>
-<span class="links-btn">[WowHead](https://tbc.wowhead.com/guides/gruuls-lair-raid-overview-burning-crusade-classic)</span>
+    <p>
+        <span class="links-btn">
+            <a href="https://www.warcrafttavern.com/tbc/guides/gruuls-lair/" target="_blank">W Tavern</a>
+        </span>
+        <span class="links-btn">
+            <a href="https://tbc.wowhead.com/guides/gruuls-lair-raid-overview-burning-crusade-classic" target="_blank">WowHead</a>
+        </span>
+    </p>
 </div>
 </div>
 
@@ -49,8 +55,14 @@ name: Raiding
 <img src="./../assets/Magtheridon.jpg">
 
 <div class="div-space" markdown="1">
-<span class="links-btn">[W Tavern](https://www.warcrafttavern.com/tbc/guides/magtheridons-lair/)</span>
-<span class="links-btn">[WowHead](https://tbc.wowhead.com/guides/magtheridons-lair-raid-overview-burning-crusade-classic)</span>
+    <p>
+        <span class="links-btn">
+            <a href="https://www.warcrafttavern.com/tbc/guides/magtheridons-lair/" target="_blank">W Tavern</a>
+        </span>
+        <span class="links-btn">
+            <a href="https://tbc.wowhead.com/guides/magtheridons-lair-raid-overview-burning-crusade-classic" target="_blank">WowHead</a>
+        </span>
+    </p>
 </div>
 </div>
 </div>
@@ -72,11 +84,11 @@ name: Raiding
 Concise guides for each boss. They've kept it very simple and each boss has it's own "cheatsheet"; every basic you need to know. This website also has BiS lists and class guides. Probably worth **[checking out](https://wowtbc.gg)**.
 
 <div class="navbar nav-unset">
-    <a class="links-btn btn-nav" href='https://wowtbc.gg/boss-guides/karazhan/'>Karazhan</a>
-    <a class="links-btn btn-nav" href="https://wowtbc.gg/boss-guides/gruul's-lair/">Gruul's Lair</a>
-    <a class="links-btn btn-nav" href="https://wowtbc.gg/boss-guides/magtheridon's-lair/">Magtheirdon's Lair</a>
-    <a class="links-btn btn-nav" href='https://wowtbc.gg/boss-guides/ssc/'>Serpant Shrine</a>
-    <a class="links-btn btn-nav" href='https://wowtbc.gg/boss-guides/tempest-keep/'>Tempest Keep</a>
+    <a class="links-btn btn-nav" href='https://wowtbc.gg/boss-guides/karazhan/' target="_blank">Karazhan</a>
+    <a class="links-btn btn-nav" href="https://wowtbc.gg/boss-guides/gruul's-lair/" target="_blank">Gruul's Lair</a>
+    <a class="links-btn btn-nav" href="https://wowtbc.gg/boss-guides/magtheridon's-lair/" target="_blank">Magtheirdon's Lair</a>
+    <a class="links-btn btn-nav" href='https://wowtbc.gg/boss-guides/ssc/' target="_blank">Serpant Shrine</a>
+    <a class="links-btn btn-nav" href='https://wowtbc.gg/boss-guides/tempest-keep/' target="_blank">Tempest Keep</a>
 </div>
 
 <hr>
