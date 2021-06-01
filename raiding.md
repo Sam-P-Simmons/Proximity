@@ -36,7 +36,7 @@ name: Raiding
 
 <img src="./../assets/Gruul.jpg">
 
-<div class="div-space" markdown="1">
+<div class="div-space">
     <p>
         <span class="links-btn">
             <a href="https://www.warcrafttavern.com/tbc/guides/gruuls-lair/" target="_blank">W Tavern</a>
@@ -54,7 +54,7 @@ name: Raiding
 
 <img src="./../assets/Magtheridon.jpg">
 
-<div class="div-space" markdown="1">
+<div class="div-space">
     <p>
         <span class="links-btn">
             <a href="https://www.warcrafttavern.com/tbc/guides/magtheridons-lair/" target="_blank">W Tavern</a>
