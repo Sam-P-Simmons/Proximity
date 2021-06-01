@@ -19,7 +19,7 @@ name: Raiding
 
 <img src="./../assets/Karazhan.jpg">
 
-<div class="div-space" markdown="1">
+<div class="div-space">
     <span class="links-btn">
         <a href="https://www.warcrafttavern.com/tbc/guides/karazhan/" target="_blank">W Tavern</a>
     </span>
