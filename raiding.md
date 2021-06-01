@@ -20,12 +20,14 @@ name: Raiding
 <img src="./../assets/Karazhan.jpg">
 
 <div class="div-space">
-    <span class="links-btn">
-        <a href="https://www.warcrafttavern.com/tbc/guides/karazhan/" target="_blank">W Tavern</a>
-    </span>
-    <span class="links-btn">
-        <a href="https://tbc.wowhead.com/guides/karazhan-raid-overview-burning-crusade-classic" target="_blank">WowHead</a>
-    </span>
+    <p>
+        <span class="links-btn">
+            <a href="https://www.warcrafttavern.com/tbc/guides/karazhan/" target="_blank">W Tavern</a>
+        </span>
+        <span class="links-btn">
+            <a href="https://tbc.wowhead.com/guides/karazhan-raid-overview-burning-crusade-classic" target="_blank">WowHead</a>
+        </span>
+    </p>
 </div>
 </div>
 
