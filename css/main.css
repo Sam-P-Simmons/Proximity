@@ -202,6 +202,9 @@ ul {
     border-radius: 3px;
     box-shadow: 0 1px 4px 0 rgb(32 33 36 / 40%);
 }
+.links-btn:hover {
+    background-color: #333;
+}
 .links-btn a {
     color: white;
     border-radius: 3px;
