@@ -18,11 +18,6 @@ name: Raiding
 ## Karazhan
 
 <img src="assets/Karazhan.jpg">
-
-<div class="div-space" markdown="1">
-<span class="links-btn">[W Tavern](https://www.warcrafttavern.com/tbc/guides/karazhan/)</span>
-<span class="links-btn">[WowHead](https://tbc.wowhead.com/guides/karazhan-raid-overview-burning-crusade-classic)</span>
-</div>
 </div>
 
 <div class="column" markdown="1">
