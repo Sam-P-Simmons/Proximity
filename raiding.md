@@ -25,10 +25,6 @@ name: Raiding
 
 <img src="./../assets/Gruul.jpg">
 
-<div class="div-space" markdown="1">
-<span class="links-btn">[W Tavern](https://www.warcrafttavern.com/tbc/guides/gruuls-lair/)</span>
-<span class="links-btn">[WowHead](https://tbc.wowhead.com/guides/gruuls-lair-raid-overview-burning-crusade-classic)</span>
-</div>
 </div>
 
 
