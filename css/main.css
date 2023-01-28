@@ -55,10 +55,9 @@ body {
 }
 .banner {
     padding: 2rem 1rem;
-    text-align: center;
     margin: auto;
-    background-color: #333;
-    text-align: left;
+    background-color: #243f56;
+    text-align: center;
 }
 .banner img {
     max-width: 120px;
